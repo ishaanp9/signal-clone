@@ -1,0 +1,21 @@
+[debug] [2021-05-22T17:00:10.594Z] ----------------------------------------------------------------------
+[debug] [2021-05-22T17:00:10.597Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ishaa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-22T17:00:10.598Z] CLI Version:   9.11.0
+[debug] [2021-05-22T17:00:10.598Z] Platform:      win32
+[debug] [2021-05-22T17:00:10.598Z] Node Version:  v16.1.0
+[debug] [2021-05-22T17:00:10.600Z] Time:          Sat May 22 2021 10:00:10 GMT-0700 (Pacific Daylight Time)
+[debug] [2021-05-22T17:00:10.601Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-22T17:00:10.612Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-22T17:00:10.613Z] > authorizing via signed-in user (ishaanpuri9@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ishaa\React Native Projects\signal-clone
+
